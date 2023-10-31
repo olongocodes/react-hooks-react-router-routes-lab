@@ -1,0 +1,11 @@
+.navbar {
+    padding: 10px;
+    list-style: none; /* Remove the default bullet points */
+    display: flex; /* Display the list items horizontally */
+    justify-content: space-around; /* Add spacing between items */
+  }
+  
+  .navbar li {
+    margin: 0 5px !important; /* Use !important to ensure this rule takes precedence */
+  }
+  
